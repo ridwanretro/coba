@@ -1,0 +1,6 @@
+{
+  "name": "Sang Juara SD",
+  "description": "Aplikasi penilaian lomba sang juara untuk sekolah dasar (SD) dengan fitur input nilai otomatis dan papan peringkat real-time yang mudah digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
